@@ -11,16 +11,6 @@ Virtual workshop by Amazon Web Services (AWS) on serverless web application. In 
 ##### References: 
 Amazon Web Services (AWS) and James Beswick- Instructor.
 
-
-
-In this workshop, you will be deploying a completely [serverless](https://aws.amazon.com/serverless/) web application built with AWS services.
-
-You can follow this workshop at your own pace using the instructions in this repo, or attend a session at an AWS event where it is run.
-
-If you are doing it at your own pace, there are video tutorials for each of the modules.
-
-If you're attending this workshop at an AWS event, your instructor will provide an overview of the steps involved. There are AWS employees available to help with any of your questions - don't be afraid to ask if you get stuck!
-
 # Welcome to the Theme Park!
 
 ![InnovatorIsland](./images/innovator-island_logo.png)
