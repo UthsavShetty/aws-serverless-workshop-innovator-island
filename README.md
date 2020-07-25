@@ -1,5 +1,18 @@
 ## The Innovator Island Workshop
 
+Virtual workshop by Amazon Web Services (AWS) on serverless web application. In this workshop I have built a complete serverless web application for a theme park called Innovator Island. I used micro service approach to configure frontend and build a backend serverless application. Frontend is managed by AWS Amplify. The backend architecture uses AWS Lambda, Amazon API Gateway, Amazon S3, Amazon DynamoDB and Amazon Cognito. Here, I would like to mention some key features of theme park and used AWS services to implement them.
+
+- To estimate wait times for rides – Amazon SNS, AWS IoT Core
+- To generate composited picture with rides – AWS Lambda, Amazon S3
+- Alternative language for visitors – Amazon Translate
+- Analyze visitors stats - Amazon Kinesis Firehose delivery stream, Amazon QuickSight
+- Notification for outages – Amazon EventBridge, Amazon CloudWatch, Amazon SNS
+
+##### References: 
+Amazon Web Services (AWS) and James Beswick- Instructor.
+
+
+
 In this workshop, you will be deploying a completely [serverless](https://aws.amazon.com/serverless/) web application built with AWS services.
 
 You can follow this workshop at your own pace using the instructions in this repo, or attend a session at an AWS event where it is run.
